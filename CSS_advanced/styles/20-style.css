@@ -7,7 +7,7 @@ html{
     box-sizing: border-box;
   }
 
-*.row{
+.row::after{
     content: none;
     display: table;
     float: none
