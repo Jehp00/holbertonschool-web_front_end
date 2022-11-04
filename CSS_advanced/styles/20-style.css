@@ -10,7 +10,7 @@ html{
 .row::after{
     content: none;
     display: table;
-    float: none
+    float: both;
 }
 
 @import url(normalize.css);
