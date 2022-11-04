@@ -190,7 +190,7 @@ ul.row{
     color: var(--text-color);
 }
 
-[class~="col"]{
+[class^="col-"]{
     float: left;
     padding: 0.5rem;
 }
