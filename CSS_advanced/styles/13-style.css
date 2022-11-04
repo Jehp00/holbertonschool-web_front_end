@@ -36,7 +36,7 @@ body{
     line-height: var(--line-height-base);
 }
 
-a:link{
+a:link a:visited a:hover a:active{
     color: var(--text-color);
     text-decoration: underline;
     font-style: italic;
